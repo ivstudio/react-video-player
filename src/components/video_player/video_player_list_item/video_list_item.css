@@ -1,0 +1,26 @@
+.video-item {
+    display: flex;
+    cursor: pointer;
+    padding: .75rem 1.25rem;
+    margin-bottom: -1px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+}
+
+.video-item__tile {
+    font-size: .80em;
+    line-height: 18px;
+    color: #333;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.video-item__tile:hover{
+    color: #167ac6;
+}
+
+
+.video-item__channelTitle {
+    font-size: .70em;
+    color: #767676;
+}

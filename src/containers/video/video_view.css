@@ -1,0 +1,20 @@
+.video-pg {
+    background-color: #f1f1f1;
+    padding-bottom: 50px;
+}
+
+.video-main {
+    padding-top: 60px;
+}
+
+.video-header {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+    width: 100%;
+    background-color: #ffffff;
+    border-bottom: 1px solid #dddddd;
+    height: 50px;
+}
