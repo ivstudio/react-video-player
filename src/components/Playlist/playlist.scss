@@ -1,0 +1,10 @@
+.playlist {
+	width: 100%;
+	margin-top: $spacer-3;
+
+	@include screen-up(sm) {
+		margin-top: $spacer-0;
+		margin-left: $spacer-3;
+		width: 350px;
+	}
+}

@@ -1,15 +1,10 @@
 # React Video Player
 
-React video player demo using YouTube API
+React video player demo composition using YouTube API to fetch videos and perform searches.
 
 -   [VIEW LIVE DEMO](http://ivstudio-demo-react-video.herokuapp.com)
 
-### Libraries Used
-
--   [Bootstrapped with Create React App](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
--   [Bootstrap](http://getbootstrap.com/)
-
-## Quick Overview
+#### Note: Using heroku free sandbox (takes a few seconds to load)
 
 To run the app:
 

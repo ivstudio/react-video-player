@@ -1,0 +1,28 @@
+.playlist-item {
+	display: flex;
+	cursor: pointer;
+	padding-bottom: $spacer-2;
+
+	&__container {
+		padding: 0 $spacer-2;
+	}
+
+	&__title {
+		@include font-size($font-size-sm);
+		line-height: $line-height-base;
+		margin-bottom: $spacer-1;
+		color: $title-color;
+		font-weight: $font-bold;
+	}
+
+	&__channel {
+		text-transform: uppercase;
+		@include font-size($font-size-xs);
+		line-height: $line-height-base;
+		color: $text-secondary;
+	}
+
+	&__image {
+		max-width: $thumbnail-size;
+	}
+}

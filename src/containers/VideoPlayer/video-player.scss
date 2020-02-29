@@ -1,0 +1,20 @@
+.video-player {
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+	width: 100%;
+	padding-left: $spacer-3;
+	padding-right: $spacer-3;
+	padding-top: $header-height + $spacer-4;
+	max-width: get-breakpoints(xl);
+
+	@include screen-up(md) {
+		flex-direction: row;
+	}
+
+	&__page {
+		background-color: $color-background;
+		min-height: 100vh;
+		padding-bottom: $spacer-6;
+	}
+}
