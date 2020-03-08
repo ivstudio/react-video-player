@@ -1,14 +1,17 @@
 # React Video Player
 
-React video player demo composition using YouTube API to fetch videos and perform searches.
+This video player uses YouTube's Data API to fetch videos.
 
--   [VIEW LIVE DEMO](http://ivstudio-demo-react-video.herokuapp.com)
+-   Bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+-   [YouTube API](https://developers.google.com/youtube/v3)
 
-#### Note: Using heroku free sandbox (takes a few seconds to load)
+[View Live Demo](https://www.villamar.io/news-aggregator/)
 
-To run the app:
+## Available Scripts
 
-```sh
-npm install
-npm start
-```
+In the project directory, run:
+
+### `npm start`
+
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
