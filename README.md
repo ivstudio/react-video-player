@@ -5,7 +5,7 @@ This video player uses YouTube's Data API to fetch videos.
 -   Bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 -   [YouTube API](https://developers.google.com/youtube/v3)
 
-[View Live Demo](https://www.villamar.io/news-aggregator/)
+[View Live Demo](https://www.villamar.io/react-video-player)
 
 ## Available Scripts
 
