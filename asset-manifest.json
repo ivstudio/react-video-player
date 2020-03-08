@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-video-player/static/css/main.217d2634.chunk.css",
+    "main.js": "/react-video-player/static/js/main.b4f2e96f.chunk.js",
+    "main.js.map": "/react-video-player/static/js/main.b4f2e96f.chunk.js.map",
+    "runtime-main.js": "/react-video-player/static/js/runtime-main.cb4b8f2a.js",
+    "runtime-main.js.map": "/react-video-player/static/js/runtime-main.cb4b8f2a.js.map",
+    "static/js/2.e6a0701d.chunk.js": "/react-video-player/static/js/2.e6a0701d.chunk.js",
+    "static/js/2.e6a0701d.chunk.js.map": "/react-video-player/static/js/2.e6a0701d.chunk.js.map",
+    "index.html": "/react-video-player/index.html",
+    "precache-manifest.0d05cba1cd665d5cbd9812a74f69d5b0.js": "/react-video-player/precache-manifest.0d05cba1cd665d5cbd9812a74f69d5b0.js",
+    "service-worker.js": "/react-video-player/service-worker.js",
+    "static/css/main.217d2634.chunk.css.map": "/react-video-player/static/css/main.217d2634.chunk.css.map",
+    "static/js/2.e6a0701d.chunk.js.LICENSE.txt": "/react-video-player/static/js/2.e6a0701d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb4b8f2a.js",
+    "static/js/2.e6a0701d.chunk.js",
+    "static/css/main.217d2634.chunk.css",
+    "static/js/main.b4f2e96f.chunk.js"
+  ]
+}
