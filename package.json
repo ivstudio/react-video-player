@@ -1,8 +1,7 @@
 {
 	"name": "react-video-player",
 	"version": "0.1.0",
-	"private": true,
-	"homepage": "https://ivstudio.github.io/react-video-player",
+	"homepage": "https://www.villamar.io/react-video-player",
 	"dependencies": {
 		"dotenv": "^8.2.0",
 		"lodash": "^4.17.15",
